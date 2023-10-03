@@ -8,6 +8,18 @@
     height: 5%;
 }
 
+.pai {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li {
+    display: inline;
+    padding: 20px;
+}
+
 body {
     background-color: rgb(0, 221, 4);
 }
